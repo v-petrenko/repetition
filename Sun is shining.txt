@@ -1,0 +1,1 @@
+print("Sun is shining")
